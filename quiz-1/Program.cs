@@ -39,7 +39,9 @@ public class program
             Console.WriteLine("******************************************************************");
             Console.WriteLine("Branch name: {0}",info.Branch_name);
             Console.WriteLine("******************************************************************");
-            Console.WriteLine("Registrar for Restaurant");
+            Console.WriteLine("Where: {0}",info.Where);
+            Console.WriteLine("******************************************************************");
+           
            
     }
     public static void Founder_dispay(Founder mem)
