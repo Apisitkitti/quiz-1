@@ -49,7 +49,7 @@ public class program
          for(int i =0; i<3;i++)
             {
                 
-                Console.WriteLine("Name:{0}  Surname:{1}  ID:{2}",mem.Founder_Name[i],mem.Founder_Surname[i],mem.ID[i]);
+                Console.WriteLine("Name:{0}  Surname: {1}  ID: {2}",mem.Founder_Name[i],mem.Founder_Surname[i],mem.ID[i]);
                 Console.WriteLine("******************************************************************");
             } 
     }
